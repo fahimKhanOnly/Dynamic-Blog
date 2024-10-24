@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/KctkjVs/1.jpg",
+      "title": "Understanding AI and Its Future",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/jrkLn8d/boy1.png",
+      "posted_date": "2024-10-20",
+      "reading_time": 8,
+      "hashtags": ["AI", "Technology", "Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/WG0f5QY/2.png",
+      "title": "The Rise of Quantum Computing",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/fF9X1q8/boy2.jpg",
+      "posted_date": "2024-10-18",
+      "reading_time": 9,
+      "hashtags": ["Quantum", "Computing", "Innovation"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/rGrvc2v/3.png",
+      "title": "A Beginner's Guide to Blockchain",
+      "author": "Fahim Khan",
+      "author_img": "https://i.ibb.co.com/NSTN9zM/girl1.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 6,
+      "hashtags": ["Blockchain", "Cryptocurrency", "Guide"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/YLh6NWY/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co.com/wSpsptJ/girl2.jpg",
+        "posted_date": "2022-9-15",
+        "reading_time": 8,
+        "hashtags": ["Development", "Resources"]
+    }
+]
